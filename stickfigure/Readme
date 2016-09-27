@@ -1,0 +1,7 @@
+Line geometry is generated based on the player 1 and player 2 skeleton point output of the kinect CHOP.
+
+Hardware Requirements:
+ - Xbox Kinect V1 or V2 sensor
+
+Notes:
+Ensure the kinect1 CHOP has the correct hardware version selected.
