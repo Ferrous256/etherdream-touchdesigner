@@ -1,2 +1,2 @@
 # etherdream-touchdesigner
-Laser control code and examples for EtherDream and TouchDesigner
+Laser control code and examples for EtherDream and TouchDesigner.
