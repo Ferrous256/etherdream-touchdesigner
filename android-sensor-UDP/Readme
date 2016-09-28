@@ -1,3 +1,14 @@
+Geometry Viewer:
+Move laser cursor using gravity sensors
+Rotate geometry when "button 1" is pressed (top left button in UDP Sensor App)
+
+Draw:
+Move laser cursor using gravity sensors
+Draw one line when "button 1" is pressed (top left button in UDP Sensor App)
+
+phone sensors:
+Sensor output from Android UDP App
+
 Requirements:
 - Android Phone with UDP Senor App installed
 Download the app here: https://play.google.com/store/apps/details?id=com.ubccapstone.sensorUDP
@@ -9,5 +20,11 @@ Sensor UDP allows the user to send sensor data wirelessly via UDP on their Andro
 • Checks device for sensor availability. It is important to note that not all devices support all sensors.
 • Includes a keyboard to 'create notes' for performance
 • Values are stored in a float array, with ordering consistent to the user interface.
+
+Sensor UDP Usage Instructions:
+Input the ip address of the local machine displayed in the table DAT "connection"
+Input the port number displayed in the table DAT "connection" (Port 6000 is chosen by default)
+Access button keyboard from the menu in the top right corner of the app
+
 
 
