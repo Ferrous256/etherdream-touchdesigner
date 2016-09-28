@@ -2,7 +2,7 @@
 A game based on the old arcade game Tail Gunner. The game controller relies on the [Android Sensor UDP App](https://play.google.com/store/apps/details?id=com.ubccapstone.sensorUDP)
 
 ##Set up game controls:
-In the Android Sensor App- enable gravity sensors, input the ip address and port number shown in the table DAT labeled "connection". Move laser cursor using the phone gravity sensors. The y position of the cursor is mapped to the vertical tilt of the phone (Grav Y). The x position of the cursor is mapped to the twist of the wrist (Grav Z). In the sensor app, in the top right corner menu, toggle keyboard. The top left button is "fire".
+In the Android Sensor App- enable gravity sensors, input the ip address and port number shown in the table DAT labeled "connection". Move laser cursor using the phone gravity sensors. The y position of the cursor is mapped to the vertical tilt of the phone (Grav Y). The x position of the cursor is mapped to the twist of the wrist (Grav Z). In the sensor app, toggle keyboard by navigating the top right corner menu. This will display a set of buttons on the phone. The top left button is "fire".
 
 ##To start the game:
 Shoot the enemy in the middle of the screen. Or press the Start button in Touchdesigner.
