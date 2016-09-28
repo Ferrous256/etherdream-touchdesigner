@@ -13,7 +13,7 @@ Shoot the enemy in the middle of the screen. Or press the Start button in Touchd
 
 ##About Android Sensor UDP:
 Sensor UDP allows the user to send sensor data wirelessly via UDP on their Android device. Users can use this sensor data for a wide variety of motion tracking applications, or simply read-out the sensor data from their phone.
-#• Includes support for Linear Acceleration, Gravity, Rotation, Orientation, Ambient Light and Proximity sensors
-#• Displays sensor values on screen during wireless transmission
-#• Checks device for sensor availability. It is important to note that not all devices support all sensors.
-#• Includes a keyboard to 'create notes' for performance
+• Includes support for Linear Acceleration, Gravity, Rotation, Orientation, Ambient Light and Proximity sensors
+• Displays sensor values on screen during wireless transmission
+• Checks device for sensor availability. It is important to note that not all devices support all sensors.
+• Includes a keyboard to 'create notes' for performance
