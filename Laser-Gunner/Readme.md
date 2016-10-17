@@ -12,7 +12,7 @@ Game Settings can be configured in the bottom center of the screen. Lives determ
 Game controller options are either Joystick (usb gamepad), mouse+keyboard, or the [Android Sensor UDP App.](https://play.google.com/store/apps/details?id=com.ubccapstone.sensorUDP). 
 
 ######Mouse and Keyboard
-When using Mouse and Keyboard, x range and y range sliders are for x and y calibration respectively. 
+When using Mouse and Keyboard, x range and y range sliders are for x and y calibration respectively. Press 'F' key to fire.
 
 ######Joystick
 Joystick input uses the D-PAD on a generic USB game controller and any button to fire. The speed slider is to adjust the sensitivity of the crosshair movements.
