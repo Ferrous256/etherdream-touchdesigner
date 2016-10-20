@@ -2,8 +2,12 @@
 ######A game based on the old arcade game Tail Gunner. Shoot enemy cubes before they attack you. Shoot the enemy in the middle of the screen to start.
 
 
+Laser Gunner GUI
 
 ![Lasergunner homescreen](http://i.imgur.com/uvOUS4f.jpg)
+
+Laser Gunner demo video
+![demo](https://youtu.be/pojnqlOovQ0)
 
 ##Game Settings
 Game Settings can be configured in the bottom center of the screen. Lives determines how many lives you start with at the beginning of the game, XY Velocity is the initial x and y velocity of the enemies in the first wave, +XY is the difficulty (i.e. how much the x and y velocity increases after every wave). Likewise, Z Velocity is the initial z velocity of the enemies in the first wave, +Z is the difficulty (i.e. how much the z velocity increases after every wave). 
