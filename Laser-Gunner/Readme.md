@@ -6,7 +6,6 @@ Laser Gunner GUI
 
 ![Lasergunner homescreen](http://i.imgur.com/uvOUS4f.jpg)
 
-Laser Gunner demo video (low quality)
 [![demo](http://img.youtube.com/vi/pojnqlOovQ0/0.jpg)](https://youtu.be/pojnqlOovQ0 "Laser Gunner demo video")
 
 ##Game Settings
